@@ -8,12 +8,12 @@ This app's GUI is build using tkinter and also customtkinter.
 
 To RUN this app please run the file "project.py", making sure to have install all of the modules/libraries which can be seen below.
 
-## Modules/libraries.
-# How To Install
+# Modules/libraries.
+## How To Install
 To install a library in python, use the command "pip install" with the name of the library on your terminal/command prompt.
 example: "pip install nltk"
 
-# Used modules/libraries
+## Used modules/libraries
 - tkinter
 - customtkinter
 - nltk
