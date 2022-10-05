@@ -11,7 +11,7 @@ To RUN this app please run the file "project.py", making sure to have install al
 # Modules/libraries.
 ## How To Install
 To install a library in python, use the command "pip install" with the name of the library on your terminal/command prompt.
-example: "pip install nltk"
+For example: "pip install nltk"
 
 ## Used modules/libraries
 - tkinter
