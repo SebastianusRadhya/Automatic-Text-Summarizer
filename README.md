@@ -1,7 +1,7 @@
 # Automatic Text Summarizer by Sebastianus Radhya
 As the name suggests, this app can automatically generate summaries from texts to solve a common natural language processing problem which is Text Summarization.
 Users can input the text they want to summarize by copy-pasting their text into the text area or by uploading their text file (.txt or .docx). Users can also generate
-three summaries which uses three different algorithms. These three algorithms consists of two algorithms (nltk & sumy) that follow the extraction method to generate
+three summaries which uses three different algorithms. These three algorithms consists of two algorithms (Word Frequency Algorithm using the NLTK library and LexRank Algorithm using the Sumy library) that follow the extraction method to generate
 summaries, and also one algorithm (BART/Bidirectional Auto Regressive Transformers) that follows the abstraction method to generate summaries.
 
 This app's GUI is build using tkinter and also customtkinter.
